@@ -1,13 +1,13 @@
 package com.hp.test;
 
-public class aa {
+public class AA {
 
-    private static aa ourInstance = new aa();
+    private static AA ourInstance = new AA();
 
-    public static aa getInstance() {
+    public static AA getInstance() {
         return ourInstance;
     }
 
-    private aa() {
+    private AA() {
     }
 }
