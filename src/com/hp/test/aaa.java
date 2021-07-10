@@ -1,9 +1,9 @@
 package com.hp.test;
 
-public class aaa {
+public class AAA {
     public static void main(String[] args) {
-        aa aa1 = aa.getInstance();
-        aa aa2 = aa.getInstance();
-        System.out.println(aa1==aa2);
+        AA AA1 = AA.getInstance();
+        AA AA2 = AA.getInstance();
+        System.out.println(AA1==AA2);
     }
 }
